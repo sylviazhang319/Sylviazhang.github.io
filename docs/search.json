@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/project1/index.html",
+    "href": "blog/project1/index.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "I cleaned some data\n\n\n\nI analyzed the data"
+  },
+  {
+    "objectID": "blog/project1/index.html#section-1-data",
+    "href": "blog/project1/index.html#section-1-data",
+    "title": "Project 1",
+    "section": "",
+    "text": "I cleaned some data"
+  },
+  {
+    "objectID": "blog/project1/index.html#section-2-analysis",
+    "href": "blog/project1/index.html#section-2-analysis",
+    "title": "Project 1",
+    "section": "",
+    "text": "I analyzed the data"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/2024resume.pdf\"&gt;Download PDF&lt;/a&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sylvia(Jingyan) Zhang",
+    "section": "",
+    "text": "Hi, my name is Jingyan Zhang, but I go by Sylvia all the time!"
+  },
+  {
+    "objectID": "blog/project2/index.html",
+    "href": "blog/project2/index.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "I cleaned some data\n\n\n\nI analyzed the data"
+  },
+  {
+    "objectID": "blog/project2/index.html#section-1-data",
+    "href": "blog/project2/index.html#section-1-data",
+    "title": "Project 2",
+    "section": "",
+    "text": "I cleaned some data"
+  },
+  {
+    "objectID": "blog/project2/index.html#section-2-analysis",
+    "href": "blog/project2/index.html#section-2-analysis",
+    "title": "Project 2",
+    "section": "",
+    "text": "I analyzed the data"
+  }
+]
