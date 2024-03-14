@@ -1,7 +1,0 @@
----
-title: "Resume"
----
-
-{{< pdf resume/2024resume.pdf width=100% height=800 >}}
-  
-  
